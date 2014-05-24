@@ -10,7 +10,7 @@ package gitTomcat20;
 public class MyTest {
 
 	/**
-	 * 
+	 * MyTest
 	 */
 	public MyTest() {
 		// TODO 自動生成されたコンストラクター・スタブ
